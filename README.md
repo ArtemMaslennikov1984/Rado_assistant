@@ -1,6 +1,6 @@
 # ИИ-ассистент для Уличного радио Уфы
 
-![Иллюстрация к проекту](https://github.com/ArtemMaslennikov1984/Rado_assistant/blob/main/2025-05-10_15-23-50.jpeg)) 
+![Иллюстрация к проекту](https://github.com/ArtemMaslennikov1984/Rado_assistant/blob/main/2025-05-10_15-23-50.jpeg)
 
 ## О проекте
 
